@@ -66,7 +66,7 @@ header nav ul li:hover { /*Pseudoklasse, hover: wenn maus über ding fährt*/
 /* HOME ********************************************************/
 
 #home{
-  background: url(Bilder/landing.JPG); /*Einfühen des Bildes*/
+  background: url(Bilder/landing.png); /*Einfühen des Bildes*/
   background-position: center; center; /*Damit es im Mittelpunkt ist*/
   background-size: cover; /*damit es die gasamte fläche einnimmt*/
   background-attachment: fixed; /*Damit es Fixiert ist*/
