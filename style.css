@@ -66,7 +66,7 @@ header nav ul li:hover { /*Pseudoklasse, hover: wenn maus über ding fährt*/
 /* HOME ********************************************************/
 
 #home{
-  background: url(bilder/landing.jpg); /*Einfühen des Bildes*/
+  background: url(Bilder/landing.jpg); /*Einfühen des Bildes*/
   background-position: center; center; /*Damit es im Mittelpunkt ist*/
   background-size: cover; /*damit es die gasamte fläche einnimmt*/
   background-attachment: fixed; /*Damit es Fixiert ist*/
@@ -150,7 +150,7 @@ header nav ul li:hover { /*Pseudoklasse, hover: wenn maus über ding fährt*/
 
 /* Inlay ********************************************************/
 #inlay{
-  background: url(bilder/inlay1.png); /*Einfühen des Bildes*/
+  background: url(Bilder/inlay1.png); /*Einfühen des Bildes*/
   background-position: center; /*Damit es im Mittelpunkt ist*/
   background-size: cover; /*damit es die gasamte fläche einnimmt*/
   background-attachment: fixed; /*Damit es Fixiert ist*/
@@ -160,7 +160,7 @@ header nav ul li:hover { /*Pseudoklasse, hover: wenn maus über ding fährt*/
 /* Inlay 2********************************************************/
 
 #inlay2{
-  background: url(bilder/inlay2.jpg); /*Einfühen des Bildes*/
+  background: url(Bilder/inlay2.jpg); /*Einfühen des Bildes*/
   background-position: center;  /*Damit es im Mittelpunkt ist*/
   background-size: cover; /*damit es die gasamte fläche einnimmt*/
   background-attachment: fixed; /*Damit es Fixiert ist*/
