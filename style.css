@@ -698,7 +698,7 @@ header nav ul li:hover{
 #inlay{
   background: url(Bilder/inlay1.png); /*Einfühen des Bildes*/
   background-position: center; /*Damit es im Mittelpunkt ist*/
-  
+  background-size: contain; /*damit es die gasamte fläche einnimmt*/
   background-attachment: fixed; /*Damit es Fixiert ist*/
   height: 200px;
 }
@@ -708,7 +708,7 @@ header nav ul li:hover{
 #inlay2{
   background: url(Bilder/inlay2.JPG); /*Einfühen des Bildes*/
   background-position: center;  /*Damit es im Mittelpunkt ist*/
-
+  background-size: contain; /*damit es die gasamte fläche einnimmt*/
   background-attachment: fixed; /*Damit es Fixiert ist*/
   height: 200px;
 }
