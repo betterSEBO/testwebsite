@@ -560,6 +560,12 @@ footer ul li a p{
     width: 150px;
     margin-left: 30px;
   }
+  #home{
+    background: url(Bilder/landing_mobile.png); /*Einfühen des Bildes*/
+    background-position: center; center; /*Damit es im Mittelpunkt ist*/
+    background-size: cover; /*damit es die gasamte fläche einnimmt*/
+    background-attachment: fixed; /*Damit es Fixiert ist*/
+  }
 
 header nav{
     margin: 0;
@@ -687,6 +693,24 @@ header nav ul li:hover{
 #abg p{
   width: 70%;
   margin: 0 auto 0 auto;
+}
+
+#inlay{
+  background: url(Bilder/inlay1.png); /*Einfühen des Bildes*/
+  background-position: center; /*Damit es im Mittelpunkt ist*/
+  
+  background-attachment: fixed; /*Damit es Fixiert ist*/
+  height: 200px;
+}
+
+/* Inlay 2********************************************************/
+
+#inlay2{
+  background: url(Bilder/inlay2.JPG); /*Einfühen des Bildes*/
+  background-position: center;  /*Damit es im Mittelpunkt ist*/
+
+  background-attachment: fixed; /*Damit es Fixiert ist*/
+  height: 200px;
 }
 
 /* footer ********************************************************/
