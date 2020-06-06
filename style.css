@@ -721,6 +721,10 @@ header nav ul li:hover{
   width: 80%;
 }
 
+#Impressum h3, #ABG h3{
+  margin-top: 200px;
+}
+
 
 /*Kontakt*/
 #Kontakt{min-height: 250%}
